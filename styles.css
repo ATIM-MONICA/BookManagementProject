@@ -1,0 +1,95 @@
+
+    body {
+        background-color: #f8f9fa; /* Light background color */
+        font-family: Arial, sans-serif; /* Font style */
+    }
+
+    h1 {
+        color: #343a40; /* Darker color for the main heading */
+        text-align: center; /* Center the main heading */
+        margin-bottom: 30px; /* Space below the heading */
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    h2 {
+        color: #007bff; /* Blue color for section headings */
+        margin-top: 30px; /* Space above section headings */
+    }
+
+    .container {
+        max-width: 800px; /* Limit the width of the container */
+        margin: auto; /* Center the container */
+        padding: 20px; /* Padding inside the container */
+        background-color: #ffffff; /* White background for the container */
+        border-radius: 8px; /* Rounded corners */
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    }
+
+    .btn {
+        border-radius: 5px; /* Rounded button corners */
+    }
+
+    .btn-primary {
+        background-color: #007bff; /* Primary button color */
+        border: none; /* Remove border */
+    }
+
+    .btn-primary:hover {
+        background-color: #0056b3; /* Darker blue on hover */
+    }
+
+    .btn-warning {
+        background-color: #ffc107; /* Warning button color */
+        border: none; /* Remove border */
+    }
+
+    .btn-warning:hover {
+        background-color: #e0a800; /* Darker yellow on hover */
+    }
+
+    .btn-danger {
+        background-color: #dc3545; /* Danger button color */
+        border: none; /* Remove border */
+    }
+
+    .btn-danger:hover {
+        background-color: #c82333; /* Darker red on hover */
+    }
+
+    .list-group-item {
+        background-color: #f8f9fa; /* Light background for list items */
+        border: 1px solid #dee2e6; /* Border for list items */
+        border-radius: 5px; /* Rounded corners for list items */
+        margin-bottom: 10px; /* Space between list items */
+        transition: background-color 0.3s; /* Smooth background color transition */
+    }
+
+    .list-group-item:hover {
+        background-color: #e9ecef; /* Slightly darker background on hover */
+    }
+
+    .input-group {
+        margin-bottom: 20px; /* Space below input groups */
+    }
+
+    .modal-content {
+        border-radius: 8px; /* Rounded corners for modal */
+    }
+
+    .modal-header {
+        background-color: #007bff; /* Blue background for modal header */
+        color: white; /* White text in modal header */
+    }
+
+    .modal-footer {
+        border-top: 1px solid #dee2e6; /* Border above footer */
+    }
+
+    .form-control {
+        border-radius: 5px; /* Rounded corners for input fields */
+    }
+
+    .form-control:focus {
+        border-color: #007bff; /* Blue border on focus */
+        box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Blue shadow on focus */
+    }
