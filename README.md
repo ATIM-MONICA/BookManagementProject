@@ -1,8 +1,8 @@
  
 ##Book Management System
 Overview
-The Book Management System is a web application that allows users to manage their book collection. Users can add, edit, delete, and search for books, categorizing them into "Favorite," "Read," and "Unread." The application uses local storage to persist data across sessions.
-
+The Book Management System is a web application that allows users to manage their book collection.
+Users can add, edit, delete, and search for books, categorizing them into "Favorite," "Read," and "Unread."
 #Features
 Add Books: Users can add new books with details such as title, author, and category.
 Edit Books: Users can edit the details of existing books.
